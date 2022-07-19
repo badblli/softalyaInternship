@@ -1,5 +1,5 @@
 # softalyaInternship
-<img src="https://i.hizliresim.com/govcaai.png" align="left" width ="300" height ="300">
+<img src="https://i.hizliresim.com/govcaai.png" align="left" width ="300" height ="800">
 ## one month compulsory summer internship diary
 
 ## -----day 00------
