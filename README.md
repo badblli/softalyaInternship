@@ -1,5 +1,5 @@
 # one month compulsory summer internship diary
-<img src="https://i.hizliresim.com/govcaai.png" align="left" width ="400" height ="100">
+<img src="https://i.hizliresim.com/govcaai.png" align="right" width ="400" height ="100">
 
 
 ## tech i use
