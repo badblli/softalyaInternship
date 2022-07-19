@@ -1,4 +1,5 @@
 # softalyaInternship
+<img src="[https://upload.wikimedia.org/wikipedia/tr/thumb/c/c4/OM%C3%9C_logo.svg/1200px-OM%C3%9C_logo.svg.png](https://www.softalya.com/assets/images/logo-white.png)" align="left" width ="300" height ="300">
 one month compulsory summer internship diary
 
 -----day 00------
