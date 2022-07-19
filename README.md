@@ -1,10 +1,7 @@
 # softalyaInternship
 <img src="https://i.hizliresim.com/govcaai.png" align="left" width ="400" height ="100">
 
-
-
 ## one month compulsory summer internship diary
-
 ## tech i use
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
