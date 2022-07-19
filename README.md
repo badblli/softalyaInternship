@@ -1,6 +1,8 @@
 # softalyaInternship
 <img src="https://i.hizliresim.com/govcaai.png" align="left" width ="400" height ="100">
 
+
+
 ## one month compulsory summer internship diary
 
 ## -----day 00------
@@ -12,4 +14,4 @@ front-end'de react çalışacağım için javascript ile değişkenler ve de dom
 ## -----day 01------
 back-end çalışmalarım için python 3.10.5 versiyonunu yükledim.
 mysql ve workbench kurulumunu yaptım.
-projeyi djangoo frameworkü ile oluşturdum.
+django kullanarak örnek projeyi ile oluşturdum.
