@@ -6,6 +6,7 @@
 ## one month compulsory summer internship diary
 <br />
 <br />
+
 ## -----day 00------
 oryantasyon
 staj yetkilisinin önerdiği dökümanları inceleyip gerekli kurulumları yaptım.
