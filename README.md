@@ -7,6 +7,10 @@
 <br />
 <br />
 
+## tech i use
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Django](https://img.shields.io/badge/semantic%20ui%20react-35BDB2?style=for-the-badge&logo=semanticuireact&logoColor=white)
+
 ## -----day 00------
 - oryantasyon
 - staj yetkilisinin önerdiği dökümanları inceleyip gerekli kurulumları yaptım.
