@@ -21,5 +21,5 @@
 
 ## -----day 02------
 - django model yapısınıı inceledim. https://docs.djangoproject.com/en/4.0/topics/db/models/
-- model yapısıyla class'lar oluşturarak veri tabanı bağlantısını yaptım.
+- model yapısıyla class'lar oluşturarak veri tabanı bağlantısını yaptım. https://docs.djangoproject.com/en/4.0/ref/databases/#mysql-notes
 - django admin paneli düzenledim ve veritabanına kayıtlar ekleyerek crud işlemlerini gerçekleştirdim.
