@@ -25,5 +25,5 @@
 - django admin paneli düzenledim ve veritabanına kayıtlar ekleyerek crud işlemlerini gerçekleştirdim.
 - dinamik verilerle render admin panel ve veritabanı ilişkili sayfalar oluşturdum.
 - One to Many Relation ve Many to Many Relation kavramlarıyla uygulamalar yaparak etkileşimli sayfalar oluşturdum.
-- (https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/)
-- (https://docs.djangoproject.com/en/4.0/topics/db/examples/one_to_one/)
+  - (https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/)
+  - (https://docs.djangoproject.com/en/4.0/topics/db/examples/one_to_one/)
