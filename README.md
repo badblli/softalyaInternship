@@ -1,4 +1,4 @@
-# one month compulsory summer internship diary
+# one month summer internship diary
 <img src="https://i.hizliresim.com/govcaai.png" align="right" width ="400" height ="100">
 
 
