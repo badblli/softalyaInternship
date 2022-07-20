@@ -18,3 +18,8 @@
 - back-end çalışmalarım için python 3.10.5 versiyonunu yükledim.
 - mysql ve workbench kurulumunu yaptım.
 - django kullanarak örnek projeyi ile oluşturdum.
+
+## -----day 02------
+- django model yapısınıı inceledim. https://docs.djangoproject.com/en/4.0/topics/db/models/
+- model yapısıyla class'lar oluşturarak veri tabanı bağlantısını yaptım.
+- django admin paneli düzenledim ve veritabanına kayıtlar ekleyerek crud işlemlerini gerçekleştirdim.
