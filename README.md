@@ -54,10 +54,14 @@
   - https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
   
   ## -----day 05------
+-  Many to Many Relation yapısıyla ilgili aldığım hataları veritabanı kısmında düzelttim.
+  - https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
+
+  ## -----day 06------
 - Django Many to Many Relation ile oluşturduğum sayfalara url yönlendirmelerini yaparak view.py içinde düzenlemeler yaptım.
   - https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
   
-   ## -----day 06------
+   ## -----day 07------
 - Django View Layer yapısını inceledim.
   - https://docs.djangoproject.com/en/4.0/topics/http/views/
 - Class ve Template View üzerined çalışıp Class Based View yapısını inceledim.
