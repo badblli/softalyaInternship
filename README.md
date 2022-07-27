@@ -8,20 +8,20 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-## -----day 00------
+## -----day 00------ 18.07.2022
 
 - oryantasyon
 - staj yetkilisinin önerdiği dökümanları inceleyip gerekli kurulumları yaptım.
   (node.js&vscode için eklentiler)
 - front-end'de react çalışacağım için javascript ile değişkenler ve de dom kavramlarını öğrenip üzerinden geçtim.
 
-## -----day 01------
+## -----day 01------ 19.07.2022
 
 - back-end çalışmalarım için python 3.10.5 versiyonunu yükledim.
 - mysql ve workbench kurulumunu yaptım.
 - django kullanarak örnek projeyi ile oluşturdum.
 
-## -----day 02------
+## -----day 02------ 20.07.2022
 
 - django model yapısınıı inceledim.
   - https://docs.djangoproject.com/en/4.0/topics/db/models/
@@ -38,7 +38,7 @@
 - One to Many Relation ile uygulamalar yaparak etkileşimli sayfalar oluşturdum.
   - https://docs.djangoproject.com/en/4.0/topics/db/examples/one_to_one/
 
-## -----day 04------
+## -----day 03------ 21.07.2022
 
 - Front-End tarafında react ile real dom&virtual dom yapısını inceledim.
 - Callback Functions / async-await, Promises ve Array Functions konularını gözden geçirdim.
@@ -49,19 +49,19 @@
     cd hello-react
     yarn start
   ```
-  ## -----day 04------
+ ## -----day 04------ 22.07.2022
 - Django Many to Many Relation kavramlarıyla uygulamalar yaparak etkileşimli sayfalar oluşturdum.
   - https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
   
-  ## -----day 05------
+ ## -----day 05------ 25.07.2022
 -  Many to Many Relation yapısıyla ilgili aldığım hataları veritabanı kısmında düzelttim.
   - https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
 
-  ## -----day 06------
+ ## -----day 06------ 26.07.2022
 - Django Many to Many Relation ile oluşturduğum sayfalara url yönlendirmelerini yaparak view.py içinde düzenlemeler yaptım.
   - https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
   
-  ## -----day 07------
+ ## -----day 07------ 27.07.2022
 - Django View Layer yapısını inceledim.
   - https://docs.djangoproject.com/en/4.0/topics/http/views/
 - Class ve Template View üzerined çalışıp Class Based View yapısını inceledim.
