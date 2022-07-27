@@ -50,5 +50,15 @@
     yarn start
   ```
   ## -----day 04------
-- Many to Many Relation kavramlarıyla uygulamalar yaparak etkileşimli sayfalar oluşturdum.
+- Django Many to Many Relation kavramlarıyla uygulamalar yaparak etkileşimli sayfalar oluşturdum.
   - https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
+  
+  ## -----day 05------
+- Django Many to Many Relation ile oluşturduğum sayfalara url yönlendirmelerini yaparak view.py içinde düzenlemeler yaptım.
+  - https://docs.djangoproject.com/en/4.0/topics/db/examples/many_to_one/
+  
+   ## -----day 06------
+- Django View Layer yapısını inceledim.
+  - https://docs.djangoproject.com/en/4.0/topics/http/views/
+- Class ve Template View üzerined çalışıp Class Based View yapısını inceledim.
+  - https://docs.djangoproject.com/en/4.0/topics/class-based-views/
