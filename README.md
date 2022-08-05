@@ -92,5 +92,7 @@
     - <img src="https://i.hizliresim.com/5w59bv2.png" align="right" width ="40%" height ="50%">
  
  ## -----day 13------ 04.08.2022
- 
+  - Sidebar'da ayırdığım kısımların sayfalarını kodlayıp routes.js kısmında path yönlendirmelerini yaptım.
+  - Genel taslağı tamamladığımda projeyi GitHub'a yükleyerek Vercel üzerinden build alarak yayınladım.
+    - [https://softalya-web-projects.vercel.app/](https://softalya-web-projects.vercel.app/)
  ## -----day 14------ 05.08.2022
