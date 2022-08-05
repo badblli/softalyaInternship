@@ -84,12 +84,12 @@
  ## -----day 11------ 02.08.2022
   - Dashboard'ın anasayfasını kodlamaya başladım.
   - Projenin ihtiyaçlarına göre Sürücüler, Yolcular ve Görevler olarak oluşturduğum sidebar'ı böldüm.
-  - <img src="https://i.hizliresim.com/djfiy0l.png" align="center" width ="400" height ="100">
+  - <img src="https://i.hizliresim.com/djfiy0l.png" align="center">
  
  ## -----day 12------ 03.08.2022
   - Anasayfayı şekillendirerek gerekli kısımları ekledim. Geçici olarak dolu gözümesi için [FakerJs](https://fakerjs.dev/) kütüphanesini kullandım.
-    - <img src="https://i.hizliresim.com/b8wrja4.png" align="left" width ="400" height ="400">
-    - <img src="https://i.hizliresim.com/5w59bv2.png" align="right" width ="400" height ="400">
+    - <img src="https://i.hizliresim.com/b8wrja4.png" align="left" width ="80%" height ="100%">
+    - <img src="https://i.hizliresim.com/5w59bv2.png" align="right" width ="80%" height ="100%">
  
  ## -----day 13------ 04.08.2022
  
