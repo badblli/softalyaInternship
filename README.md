@@ -87,6 +87,9 @@
   - [sidebar](https://i.hizliresim.com/djfiy0l.png)
  
  ## -----day 12------ 03.08.2022
+  - Anasayfayı şekillendirerek gerekli kısımları ekledim. Geçici olarak dolu gözümesi için [FakerJs](https://fakerjs.dev/) kütüphanesini kullandım.
+    - https://i.hizliresim.com/b8wrja4.png
+    - https://i.hizliresim.com/5w59bv2.png 
  
  ## -----day 13------ 04.08.2022
  
