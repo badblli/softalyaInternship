@@ -73,8 +73,13 @@
 	Bir havayolu şirketinin havalimanına eleman taşıması için kullanılacak web application. Web sitesi panel olarak kullanılacak. Web sitesinde admin için giriş ekranı, sürücü ekleme, yolcu ekleme ekranı, görev ekleme ve görev izleme ekranı olacak. Görev oluştururken başlangıç ve son durak seçilecek. Sürücü ve yolcular göreve eklenecek. Görev ekranında bir harita üzerinden yolcuların konumlarını ve sürücünün konumunu görülebilecek. Hangi yolcular arabaya alınmış görülebilecek. Mobil üzerinde sadece sürücü için giriş ekranı olacak. Sürücüye atanmış olan görevler listenecek ve sürücü bu görevleri kabul veya red edebilecek. Sürücünün aktif konumu backende her 1-5 saniyede bir gönderilecek. Uygulama üzerinden kendi konumunu durakların konumunu ve yolcuların konumunu görebilecek. Yolcunun yakınına gelirse o yolcuyu aldım olarak işaretleyebilecek. Durak yakınlarında da vardım diyebilecek.``
  
  ## -----day 09------ 29.07.2022
+  - Front-End olarak bir dashboard arayüzü kodlamamız istendi. Projenin ihtiyaçları doğrultusunda hem mobil hem web için Adobe Xd üzerinden bir tasarım oluşturdum.
+  - Tasarımı Figma'ya aktararak ekip arkadaşlarımla paylaştım.
  
  ## -----day 10------ 01.08.2022
+  - Tasarımı staj görevlisine göstererek onayını aldıktan sonra kodlamaya başladık.
+  - Front-End kısmında React ile beraber Material UI kütüphanesini kullandık.
+   - [https://mui.com/](https://mui.com/)
  
  ## -----day 11------ 02.08.2022
  
