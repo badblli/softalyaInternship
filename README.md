@@ -82,6 +82,9 @@
   	- [https://mui.com/](https://mui.com/)
  
  ## -----day 11------ 02.08.2022
+  - Dashboard'ın anasayfasını kodlamaya başladım.
+  - Projenin ihtiyaçlarına göre Sürücüler, Yolcular ve Görevler olarak oluşturduğum sidebar'ı böldüm.
+  - [sidebar](https://i.hizliresim.com/djfiy0l.png)
  
  ## -----day 12------ 03.08.2022
  
