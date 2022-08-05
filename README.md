@@ -88,8 +88,8 @@
  
  ## -----day 12------ 03.08.2022
   - Anasayfayı şekillendirerek gerekli kısımları ekledim. Geçici olarak dolu gözümesi için [FakerJs](https://fakerjs.dev/) kütüphanesini kullandım.
-    - <img src="https://i.hizliresim.com/b8wrja4.png" align="left" width ="80%" height ="100%">
-    - <img src="https://i.hizliresim.com/5w59bv2.png" align="right" width ="80%" height ="100%">
+    - <img src="https://i.hizliresim.com/b8wrja4.png" align="left" width ="40%" height ="50%">
+    - <img src="https://i.hizliresim.com/5w59bv2.png" align="right" width ="40%" height ="50%">
  
  ## -----day 13------ 04.08.2022
  
