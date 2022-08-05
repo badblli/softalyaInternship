@@ -66,3 +66,20 @@
   - https://docs.djangoproject.com/en/4.0/topics/http/views/
 - Class ve Template View üzerined çalışıp Class Based View yapısını inceledim.
   - https://docs.djangoproject.com/en/4.0/topics/class-based-views/
+
+ ## -----day 08------ 28.07.2022
+  - Yapacağımız projen belirlendi ve kullanacağımız teknolojilerle gruplara ayrılıp görev dağılımı yapıldı.
+  - ``Görev
+	Bir havayolu şirketinin havalimanına eleman taşıması için kullanılacak web application. Web sitesi panel olarak kullanılacak. Web sitesinde admin için giriş ekranı, sürücü ekleme, yolcu ekleme ekranı, görev ekleme ve görev izleme ekranı olacak. Görev oluştururken başlangıç ve son durak seçilecek. Sürücü ve yolcular göreve eklenecek. Görev ekranında bir harita üzerinden yolcuların konumlarını ve sürücünün konumunu görülebilecek. Hangi yolcular arabaya alınmış görülebilecek. Mobil üzerinde sadece sürücü için giriş ekranı olacak. Sürücüye atanmış olan görevler listenecek ve sürücü bu görevleri kabul veya red edebilecek. Sürücünün aktif konumu backende her 1-5 saniyede bir gönderilecek. Uygulama üzerinden kendi konumunu durakların konumunu ve yolcuların konumunu görebilecek. Yolcunun yakınına gelirse o yolcuyu aldım olarak işaretleyebilecek. Durak yakınlarında da vardım diyebilecek.``
+ 
+ ## -----day 09------ 29.07.2022
+ 
+ ## -----day 10------ 01.08.2022
+ 
+ ## -----day 11------ 02.08.2022
+ 
+ ## -----day 12------ 03.08.2022
+ 
+ ## -----day 13------ 04.08.2022
+ 
+ ## -----day 14------ 05.08.2022
