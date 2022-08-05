@@ -79,7 +79,7 @@
  ## -----day 10------ 01.08.2022
   - Tasarımı staj görevlisine göstererek onayını aldıktan sonra kodlamaya başladık.
   - Front-End kısmında React ile beraber Material UI kütüphanesini kullandık.
-   - [https://mui.com/](https://mui.com/)
+  	- [https://mui.com/](https://mui.com/)
  
  ## -----day 11------ 02.08.2022
  
